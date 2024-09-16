@@ -20,11 +20,11 @@ To start creating your own designs, run the FashionAIStudio notebook in Google C
   
 - Real-Time Visualization: Visualize fashion designs in real time to see how various adjustments affect the final look.
 
-## Sample Designs
+## Sample Design
 
 Below are some examples of the designs created using FashionAIStudio:
 
-<img alt="Sample 1" src="[https://github.com/RDreamStudios/FashionAIStudio/assets/139819118/c4f77bae-c5d5-4d7c-aba4-02cd8a241201](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fsyncedreview%2Fai-creates-fashion-models-with-custom-outfits-and-poses-a27d5784651f&psig=AOvVaw1bSUlX5QavBE189vuvcw88&ust=1726574505380000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCdwrq1x4gDFQAAAAAdAAAAABAJ)" width="256">
+<img alt="Sample 1" src="https://raw.githubusercontent.com/gannemjahnavi/AI_FASHION_MODEL/main/asset.png" width="256">
 
 ---
 
