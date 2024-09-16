@@ -1,4 +1,4 @@
-# FashionAIStudio
+# AIFashionModel
 
 FashionAIStudio is a cutting-edge platform that merges artificial intelligence with fashion design, allowing users to generate unique virtual fashion creations based on their preferences. 
 
