@@ -1,6 +1,6 @@
 # AIFashionModel
 
-FashionAIStudio is a cutting-edge platform that merges artificial intelligence with fashion design, allowing users to generate unique virtual fashion creations based on their preferences. 
+AIFashionModel is a cutting-edge platform that merges artificial intelligence with fashion design, allowing users to generate unique virtual fashion creations based on their preferences. 
 
 ## Overview
 
@@ -8,7 +8,7 @@ FashionAIStudio leverages advanced generative AI models to create custom fashion
 
 ## Getting Started
 
-To start creating your own designs, run the FashionAIStudio notebook in Google Colab:
+To start creating your own designs, run the AIFashionModel notebook in Google Colab:
 
 [Run FashionAIStudio on Colab](https://colab.research.google.com/drive/1LWrDV5lo_thhqvt6V1YD5awm3-A1rgHD?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LWrDV5lo_thhqvt6V1YD5awm3-A1rgHD?usp=sharing)
 
@@ -22,7 +22,7 @@ To start creating your own designs, run the FashionAIStudio notebook in Google C
 
 ## Sample Design
 
-Below are some examples of the designs created using FashionAIStudio:
+Below are some examples of the designs created using AIFashionModel:
 
 <img alt="Sample 1" src="https://raw.githubusercontent.com/gannemjahnavi/AI_FASHION_MODEL/main/asset.png" width="256">
 
