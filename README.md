@@ -10,7 +10,7 @@ FashionAIStudio leverages advanced generative AI models to create custom fashion
 
 To start creating your own designs, run the FashionAIStudio notebook in Google Colab:
 
-[Run FashionAIStudio on Colab](https://colab.research.google.com/drive/1TCfj_ploiqGS6pGbCehpc0dPhEqk2QXj#scrollTo=ufD_d64nr08H) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TCfj_ploiqGS6pGbCehpc0dPhEqk2QXj#scrollTo=ufD_d64nr08H)
+[Run FashionAIStudio on Colab](https://colab.research.google.com/drive/1LWrDV5lo_thhqvt6V1YD5awm3-A1rgHD?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LWrDV5lo_thhqvt6V1YD5awm3-A1rgHD?usp=sharing)
 
 ## Key Features
 
